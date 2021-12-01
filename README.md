@@ -1,5 +1,7 @@
-# Projeto_2
+# Ciência dos Dados - Projeto 2 
 
-Para o funcionamento correto do arquivo jupyter notebook, é necessário o a instalação prévia das seguintes bibliotecas:
-graphviz ---> pip install graphviz
-pydotplus ---> pip install pydotplus
+Tema: Análise de Reincidência de Câncer de Mama
+
+Bibliotecas necessárias, mas que já constam para instalação automática no arquivo Jupyter Notebook:
+graphviz —> pip install graphviz
+pydotplus —> pip install pydotplus
